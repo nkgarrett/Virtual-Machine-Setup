@@ -29,7 +29,20 @@ Name the VM and choose the Azure region that's right for you and your customers.
 <br>
 Once the image is chosen, select a VM size that supports the workload you want to run. The size will determine factors such as processing power, memory, speed and storage capacity. Azure offers a multitude of sizes to support different types of uses at varying hourly prices.<br>
 <br>
-<img width="500" alt="image" src="https://github.com/nkgarrett/Virtual-Machine-Setup/assets/156832893/37e4ff49-fa17-4aef-aff5-d0e45d26f23f">
+<img width="500" alt="image" src="https://github.com/nkgarrett/Virtual-Machine-Setup/assets/156832893/37e4ff49-fa17-4aef-aff5-d0e45d26f23f"><br>
+<br>
+Next, create an Administrator account. This account will be used to log in to the VM. Check the Licensing box then select Review & create. On the following page the site will review all the credentials and once the validation passes, select create and deploy the VM.<br>
+<img width="500" alt="image" src="https://github.com/nkgarrett/Virtual-Machine-Setup/assets/156832893/335a7179-8659-4200-9e4f-a29835c088fb"><br>
+<br>
+<img width="500" alt="image" src="https://github.com/nkgarrett/Virtual-Machine-Setup/assets/156832893/8db683db-8fe2-41d2-b146-f1e62b6d0b15"><br>
+<br>
+The site will confirm the deployment of the VM once its complete. <br>
+<br>
+<img width="500" alt="image" src="https://github.com/nkgarrett/Virtual-Machine-Setup/assets/156832893/f975ae45-69db-41cb-b2ea-6e0771cbd91b">
+
+
+
+
 
 
 
